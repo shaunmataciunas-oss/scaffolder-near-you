@@ -1,0 +1,15 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background: Rounded Square in Brand Black -->
+  <rect width="32" height="32" rx="6" fill="#09090b"/>
+  
+  <!-- Vertical Scaffold Poles (Brand Yellow) -->
+  <path d="M9 5V27" stroke="#FACC15" stroke-width="3" stroke-linecap="round"/>
+  <path d="M23 5V27" stroke="#FACC15" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Horizontal Scaffold Boards (White) -->
+  <path d="M6 11H26" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <path d="M6 21H26" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Cross Bracing (Brand Yellow) -->
+  <path d="M11 12L21 20" stroke="#FACC15" stroke-width="2" stroke-opacity="0.9"/>
+</svg>
